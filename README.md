@@ -1,2 +1,2 @@
 # Test
-Hi my name is seongho
+Hi my name is Seongho
